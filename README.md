@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# Basic MemeCoin Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+This project demonstrates the basic creation of an ERC-20 Smart Contract MemeCoin on the Rinkeby Test-net. 
 
 Try running some of the following tasks:
 
